@@ -2,8 +2,8 @@
 
 How fast do energy prices react to a geopolitical shock? This project pulls U.S. gasoline, electricity, and natural gas prices from the U.S. Energy Information Administration (EIA), models them in SQL Server, and visualizes them in an interactive Power BI dashboard built around the 2026 Iran conflict.
 
-![Dashboard overview](screenshots/dashboard_overview.png)
-**[View the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjY3MzZhOGMtZTQ4Yy00NjRkLTlkZWItNTJmYTI3MDk2ZDQ2IiwidCI6ImJjNGQ5MjI5LTgwODktNGE3Zi1iZjQwLTA0NTk0MDFlOWVkMiIsImMiOjJ9)**
+[![Dashboard overview](screenshots/dashboard_overview.png)](https://app.powerbi.com/view?r=eyJrIjoiZjY3MzZhOGMtZTQ4Yy00NjRkLTlkZWItNTJmYTI3MDk2ZDQ2IiwidCI6ImJjNGQ5MjI5LTgwODktNGE3Zi1iZjQwLTA0NTk0MDFlOWVkMiIsImMiOjJ9)
+
 ## Key Finding
 
 **Gasoline prices reacted almost immediately to the 2026 Iran conflict, while residential electricity and natural gas prices moved gradually.**
