@@ -1,0 +1,220 @@
+period,year,month,fuel_type,price,unit,msn
+2020-01,2020,1,"Gasoline (Regular, All Areas)",2.548,Dollars per Gallon Including Taxes,RMRTUUS
+2020-02,2020,2,"Gasoline (Regular, All Areas)",2.442,Dollars per Gallon Including Taxes,RMRTUUS
+2020-03,2020,3,"Gasoline (Regular, All Areas)",2.234,Dollars per Gallon Including Taxes,RMRTUUS
+2020-04,2020,4,"Gasoline (Regular, All Areas)",1.841,Dollars per Gallon Including Taxes,RMRTUUS
+2020-05,2020,5,"Gasoline (Regular, All Areas)",1.87,Dollars per Gallon Including Taxes,RMRTUUS
+2020-06,2020,6,"Gasoline (Regular, All Areas)",2.082,Dollars per Gallon Including Taxes,RMRTUUS
+2020-07,2020,7,"Gasoline (Regular, All Areas)",2.183,Dollars per Gallon Including Taxes,RMRTUUS
+2020-08,2020,8,"Gasoline (Regular, All Areas)",2.182,Dollars per Gallon Including Taxes,RMRTUUS
+2020-09,2020,9,"Gasoline (Regular, All Areas)",2.183,Dollars per Gallon Including Taxes,RMRTUUS
+2020-10,2020,10,"Gasoline (Regular, All Areas)",2.158,Dollars per Gallon Including Taxes,RMRTUUS
+2020-11,2020,11,"Gasoline (Regular, All Areas)",2.108,Dollars per Gallon Including Taxes,RMRTUUS
+2020-12,2020,12,"Gasoline (Regular, All Areas)",2.195,Dollars per Gallon Including Taxes,RMRTUUS
+2021-01,2021,1,"Gasoline (Regular, All Areas)",2.334,Dollars per Gallon Including Taxes,RMRTUUS
+2021-02,2021,2,"Gasoline (Regular, All Areas)",2.501,Dollars per Gallon Including Taxes,RMRTUUS
+2021-03,2021,3,"Gasoline (Regular, All Areas)",2.81,Dollars per Gallon Including Taxes,RMRTUUS
+2021-04,2021,4,"Gasoline (Regular, All Areas)",2.858,Dollars per Gallon Including Taxes,RMRTUUS
+2021-05,2021,5,"Gasoline (Regular, All Areas)",2.985,Dollars per Gallon Including Taxes,RMRTUUS
+2021-06,2021,6,"Gasoline (Regular, All Areas)",3.064,Dollars per Gallon Including Taxes,RMRTUUS
+2021-07,2021,7,"Gasoline (Regular, All Areas)",3.136,Dollars per Gallon Including Taxes,RMRTUUS
+2021-08,2021,8,"Gasoline (Regular, All Areas)",3.158,Dollars per Gallon Including Taxes,RMRTUUS
+2021-09,2021,9,"Gasoline (Regular, All Areas)",3.175,Dollars per Gallon Including Taxes,RMRTUUS
+2021-10,2021,10,"Gasoline (Regular, All Areas)",3.291,Dollars per Gallon Including Taxes,RMRTUUS
+2021-11,2021,11,"Gasoline (Regular, All Areas)",3.395,Dollars per Gallon Including Taxes,RMRTUUS
+2021-12,2021,12,"Gasoline (Regular, All Areas)",3.307,Dollars per Gallon Including Taxes,RMRTUUS
+2022-01,2022,1,"Gasoline (Regular, All Areas)",3.315,Dollars per Gallon Including Taxes,RMRTUUS
+2022-02,2022,2,"Gasoline (Regular, All Areas)",3.517,Dollars per Gallon Including Taxes,RMRTUUS
+2022-03,2022,3,"Gasoline (Regular, All Areas)",4.222,Dollars per Gallon Including Taxes,RMRTUUS
+2022-04,2022,4,"Gasoline (Regular, All Areas)",4.109,Dollars per Gallon Including Taxes,RMRTUUS
+2022-05,2022,5,"Gasoline (Regular, All Areas)",4.444,Dollars per Gallon Including Taxes,RMRTUUS
+2022-06,2022,6,"Gasoline (Regular, All Areas)",4.929,Dollars per Gallon Including Taxes,RMRTUUS
+2022-07,2022,7,"Gasoline (Regular, All Areas)",4.559,Dollars per Gallon Including Taxes,RMRTUUS
+2022-08,2022,8,"Gasoline (Regular, All Areas)",3.975,Dollars per Gallon Including Taxes,RMRTUUS
+2022-09,2022,9,"Gasoline (Regular, All Areas)",3.7,Dollars per Gallon Including Taxes,RMRTUUS
+2022-10,2022,10,"Gasoline (Regular, All Areas)",3.815,Dollars per Gallon Including Taxes,RMRTUUS
+2022-11,2022,11,"Gasoline (Regular, All Areas)",3.685,Dollars per Gallon Including Taxes,RMRTUUS
+2022-12,2022,12,"Gasoline (Regular, All Areas)",3.21,Dollars per Gallon Including Taxes,RMRTUUS
+2023-01,2023,1,"Gasoline (Regular, All Areas)",3.339,Dollars per Gallon Including Taxes,RMRTUUS
+2023-02,2023,2,"Gasoline (Regular, All Areas)",3.389,Dollars per Gallon Including Taxes,RMRTUUS
+2023-03,2023,3,"Gasoline (Regular, All Areas)",3.422,Dollars per Gallon Including Taxes,RMRTUUS
+2023-04,2023,4,"Gasoline (Regular, All Areas)",3.603,Dollars per Gallon Including Taxes,RMRTUUS
+2023-05,2023,5,"Gasoline (Regular, All Areas)",3.555,Dollars per Gallon Including Taxes,RMRTUUS
+2023-06,2023,6,"Gasoline (Regular, All Areas)",3.571,Dollars per Gallon Including Taxes,RMRTUUS
+2023-07,2023,7,"Gasoline (Regular, All Areas)",3.597,Dollars per Gallon Including Taxes,RMRTUUS
+2023-08,2023,8,"Gasoline (Regular, All Areas)",3.84,Dollars per Gallon Including Taxes,RMRTUUS
+2023-09,2023,9,"Gasoline (Regular, All Areas)",3.836,Dollars per Gallon Including Taxes,RMRTUUS
+2023-10,2023,10,"Gasoline (Regular, All Areas)",3.613,Dollars per Gallon Including Taxes,RMRTUUS
+2023-11,2023,11,"Gasoline (Regular, All Areas)",3.318,Dollars per Gallon Including Taxes,RMRTUUS
+2023-12,2023,12,"Gasoline (Regular, All Areas)",3.134,Dollars per Gallon Including Taxes,RMRTUUS
+2024-01,2024,1,"Gasoline (Regular, All Areas)",3.075,Dollars per Gallon Including Taxes,RMRTUUS
+2024-02,2024,2,"Gasoline (Regular, All Areas)",3.212,Dollars per Gallon Including Taxes,RMRTUUS
+2024-03,2024,3,"Gasoline (Regular, All Areas)",3.426,Dollars per Gallon Including Taxes,RMRTUUS
+2024-04,2024,4,"Gasoline (Regular, All Areas)",3.611,Dollars per Gallon Including Taxes,RMRTUUS
+2024-05,2024,5,"Gasoline (Regular, All Areas)",3.603,Dollars per Gallon Including Taxes,RMRTUUS
+2024-06,2024,6,"Gasoline (Regular, All Areas)",3.455,Dollars per Gallon Including Taxes,RMRTUUS
+2024-07,2024,7,"Gasoline (Regular, All Areas)",3.484,Dollars per Gallon Including Taxes,RMRTUUS
+2024-08,2024,8,"Gasoline (Regular, All Areas)",3.389,Dollars per Gallon Including Taxes,RMRTUUS
+2024-09,2024,9,"Gasoline (Regular, All Areas)",3.214,Dollars per Gallon Including Taxes,RMRTUUS
+2024-10,2024,10,"Gasoline (Regular, All Areas)",3.137,Dollars per Gallon Including Taxes,RMRTUUS
+2024-11,2024,11,"Gasoline (Regular, All Areas)",3.053,Dollars per Gallon Including Taxes,RMRTUUS
+2024-12,2024,12,"Gasoline (Regular, All Areas)",3.018,Dollars per Gallon Including Taxes,RMRTUUS
+2025-01,2025,1,"Gasoline (Regular, All Areas)",3.076,Dollars per Gallon Including Taxes,RMRTUUS
+2025-02,2025,2,"Gasoline (Regular, All Areas)",3.121,Dollars per Gallon Including Taxes,RMRTUUS
+2025-03,2025,3,"Gasoline (Regular, All Areas)",3.096,Dollars per Gallon Including Taxes,RMRTUUS
+2025-04,2025,4,"Gasoline (Regular, All Areas)",3.171,Dollars per Gallon Including Taxes,RMRTUUS
+2025-05,2025,5,"Gasoline (Regular, All Areas)",3.15,Dollars per Gallon Including Taxes,RMRTUUS
+2025-06,2025,6,"Gasoline (Regular, All Areas)",3.15,Dollars per Gallon Including Taxes,RMRTUUS
+2025-07,2025,7,"Gasoline (Regular, All Areas)",3.125,Dollars per Gallon Including Taxes,RMRTUUS
+2025-08,2025,8,"Gasoline (Regular, All Areas)",3.133,Dollars per Gallon Including Taxes,RMRTUUS
+2025-09,2025,9,"Gasoline (Regular, All Areas)",3.166,Dollars per Gallon Including Taxes,RMRTUUS
+2025-10,2025,10,"Gasoline (Regular, All Areas)",3.06,Dollars per Gallon Including Taxes,RMRTUUS
+2025-11,2025,11,"Gasoline (Regular, All Areas)",3.05,Dollars per Gallon Including Taxes,RMRTUUS
+2025-12,2025,12,"Gasoline (Regular, All Areas)",2.894,Dollars per Gallon Including Taxes,RMRTUUS
+2026-01,2026,1,"Gasoline (Regular, All Areas)",2.809,Dollars per Gallon Including Taxes,RMRTUUS
+2020-01,2020,1,Residential Electricity,12.76,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-02,2020,2,Residential Electricity,12.82,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-03,2020,3,Residential Electricity,13.04,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-04,2020,4,Residential Electricity,13.24,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-05,2020,5,Residential Electricity,13.1,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-06,2020,6,Residential Electricity,13.22,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-07,2020,7,Residential Electricity,13.21,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-08,2020,8,Residential Electricity,13.26,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-09,2020,9,Residential Electricity,13.49,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-10,2020,10,Residential Electricity,13.66,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-11,2020,11,Residential Electricity,13.31,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-12,2020,12,Residential Electricity,12.78,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-01,2021,1,Residential Electricity,12.62,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-02,2021,2,Residential Electricity,13.01,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-03,2021,3,Residential Electricity,13.24,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-04,2021,4,Residential Electricity,13.73,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-05,2021,5,Residential Electricity,13.86,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-06,2021,6,Residential Electricity,13.83,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-07,2021,7,Residential Electricity,13.83,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-08,2021,8,Residential Electricity,13.92,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-09,2021,9,Residential Electricity,14.14,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-10,2021,10,Residential Electricity,14.06,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-11,2021,11,Residential Electricity,14.07,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2021-12,2021,12,Residential Electricity,13.72,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-01,2022,1,Residential Electricity,13.64,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-02,2022,2,Residential Electricity,13.76,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-03,2022,3,Residential Electricity,14.41,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-04,2022,4,Residential Electricity,14.57,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-05,2022,5,Residential Electricity,14.89,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-06,2022,6,Residential Electricity,15.3,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-07,2022,7,Residential Electricity,15.31,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-08,2022,8,Residential Electricity,15.82,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-09,2022,9,Residential Electricity,16.19,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-10,2022,10,Residential Electricity,15.99,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-11,2022,11,Residential Electricity,15.55,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2022-12,2022,12,Residential Electricity,14.94,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-01,2023,1,Residential Electricity,15.47,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-02,2023,2,Residential Electricity,15.98,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-03,2023,3,Residential Electricity,16.04,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-04,2023,4,Residential Electricity,16.1,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-05,2023,5,Residential Electricity,16.14,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-06,2023,6,Residential Electricity,16.09,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-07,2023,7,Residential Electricity,15.86,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-08,2023,8,Residential Electricity,15.91,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-09,2023,9,Residential Electricity,16.27,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-10,2023,10,Residential Electricity,16.48,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-11,2023,11,Residential Electricity,16.19,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2023-12,2023,12,Residential Electricity,15.69,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-01,2024,1,Residential Electricity,15.41,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-02,2024,2,Residential Electricity,16.1,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-03,2024,3,Residential Electricity,16.67,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-04,2024,4,Residential Electricity,16.86,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-05,2024,5,Residential Electricity,16.4,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-06,2024,6,Residential Electricity,16.38,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-07,2024,7,Residential Electricity,16.62,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-08,2024,8,Residential Electricity,16.6,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-09,2024,9,Residential Electricity,16.82,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-10,2024,10,Residential Electricity,17.09,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-11,2024,11,Residential Electricity,16.85,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2024-12,2024,12,Residential Electricity,16.27,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-01,2025,1,Residential Electricity,15.94,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-02,2025,2,Residential Electricity,16.43,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-03,2025,3,Residential Electricity,17.09,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-04,2025,4,Residential Electricity,17.55,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-05,2025,5,Residential Electricity,17.37,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-06,2025,6,Residential Electricity,17.47,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-07,2025,7,Residential Electricity,17.45,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-08,2025,8,Residential Electricity,17.61,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-09,2025,9,Residential Electricity,18.08,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-10,2025,10,Residential Electricity,17.97,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-11,2025,11,Residential Electricity,17.78,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2025-12,2025,12,Residential Electricity,17.24,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2026-01,2026,1,Residential Electricity,17.45,"Cents per Kilowatthour,  Including Taxes",ESRCUUS
+2020-01,2020,1,Residential Natural Gas,9.43,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-02,2020,2,Residential Natural Gas,9.19,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-03,2020,3,Residential Natural Gas,9.8,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-04,2020,4,Residential Natural Gas,10.42,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-05,2020,5,Residential Natural Gas,11.79,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-06,2020,6,Residential Natural Gas,15.33,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-07,2020,7,Residential Natural Gas,17.49,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-08,2020,8,Residential Natural Gas,18.27,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-09,2020,9,Residential Natural Gas,16.85,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-10,2020,10,Residential Natural Gas,12.26,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-11,2020,11,Residential Natural Gas,10.99,Dollars per Thousand Cubic Feet,NGRCUUS
+2020-12,2020,12,Residential Natural Gas,9.75,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-01,2021,1,Residential Natural Gas,9.62,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-02,2021,2,Residential Natural Gas,9.28,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-03,2021,3,Residential Natural Gas,10.47,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-04,2021,4,Residential Natural Gas,12.27,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-05,2021,5,Residential Natural Gas,14.07,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-06,2021,6,Residential Natural Gas,17.74,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-07,2021,7,Residential Natural Gas,19.81,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-08,2021,8,Residential Natural Gas,20.86,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-09,2021,9,Residential Natural Gas,20.13,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-10,2021,10,Residential Natural Gas,17.4,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-11,2021,11,Residential Natural Gas,13.11,Dollars per Thousand Cubic Feet,NGRCUUS
+2021-12,2021,12,Residential Natural Gas,13.08,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-01,2022,1,Residential Natural Gas,12.04,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-02,2022,2,Residential Natural Gas,12.15,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-03,2022,3,Residential Natural Gas,12.94,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-04,2022,4,Residential Natural Gas,13.97,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-05,2022,5,Residential Natural Gas,17.68,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-06,2022,6,Residential Natural Gas,22.41,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-07,2022,7,Residential Natural Gas,24.57,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-08,2022,8,Residential Natural Gas,25.39,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-09,2022,9,Residential Natural Gas,24.52,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-10,2022,10,Residential Natural Gas,18.62,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-11,2022,11,Residential Natural Gas,15.56,Dollars per Thousand Cubic Feet,NGRCUUS
+2022-12,2022,12,Residential Natural Gas,14.66,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-01,2023,1,Residential Natural Gas,15.56,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-02,2023,2,Residential Natural Gas,15.15,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-03,2023,3,Residential Natural Gas,13.88,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-04,2023,4,Residential Natural Gas,14.54,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-05,2023,5,Residential Natural Gas,16.86,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-06,2023,6,Residential Natural Gas,20.31,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-07,2023,7,Residential Natural Gas,22.18,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-08,2023,8,Residential Natural Gas,23.41,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-09,2023,9,Residential Natural Gas,22.05,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-10,2023,10,Residential Natural Gas,16.85,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-11,2023,11,Residential Natural Gas,13.47,Dollars per Thousand Cubic Feet,NGRCUUS
+2023-12,2023,12,Residential Natural Gas,13.03,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-01,2024,1,Residential Natural Gas,11.89,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-02,2024,2,Residential Natural Gas,13.14,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-03,2024,3,Residential Natural Gas,13.66,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-04,2024,4,Residential Natural Gas,14.32,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-05,2024,5,Residential Natural Gas,17.67,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-06,2024,6,Residential Natural Gas,20.72,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-07,2024,7,Residential Natural Gas,22.78,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-08,2024,8,Residential Natural Gas,23.22,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-09,2024,9,Residential Natural Gas,22.46,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-10,2024,10,Residential Natural Gas,18.38,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-11,2024,11,Residential Natural Gas,14.79,Dollars per Thousand Cubic Feet,NGRCUUS
+2024-12,2024,12,Residential Natural Gas,12.85,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-01,2025,1,Residential Natural Gas,12.44,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-02,2025,2,Residential Natural Gas,12.97,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-03,2025,3,Residential Natural Gas,14.62,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-04,2025,4,Residential Natural Gas,16.17,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-05,2025,5,Residential Natural Gas,19.24,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-06,2025,6,Residential Natural Gas,23.26,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-07,2025,7,Residential Natural Gas,25.41,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-08,2025,8,Residential Natural Gas,26.24,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-09,2025,9,Residential Natural Gas,24.7,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-10,2025,10,Residential Natural Gas,19.32,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-11,2025,11,Residential Natural Gas,15.07,Dollars per Thousand Cubic Feet,NGRCUUS
+2025-12,2025,12,Residential Natural Gas,14.09,Dollars per Thousand Cubic Feet,NGRCUUS
+2026-01,2026,1,Residential Natural Gas,13.96,Dollars per Thousand Cubic Feet,NGRCUUS
