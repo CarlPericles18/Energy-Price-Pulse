@@ -12,6 +12,14 @@ How fast do energy prices react to a geopolitical shock? This project pulls U.S.
 - Electricity and natural gas are reported **monthly**, and retail prices also lag because of utility contracts and rate regulation.
 - Takeaway: both **data frequency** and **market structure** decide how quickly a price shock becomes visible. Analysts comparing these series have to account for that before drawing conclusions.
 
+## Data Source
+
+U.S. Energy Information Administration (EIA) Open Data API v2:
+
+- [Total Energy](https://www.eia.gov/opendata/browser/total-energy): monthly residential electricity prices
+- [Petroleum: Weekly Retail Gasoline Prices](https://www.eia.gov/opendata/browser/petroleum/pri/gnd): weekly U.S. regular gasoline prices
+- [Natural Gas: Monthly Prices](https://www.eia.gov/opendata/browser/natural-gas/pri/sum): monthly residential natural gas prices
+  
 ## Tools
 
 | Stage | Tool |
